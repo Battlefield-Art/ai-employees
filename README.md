@@ -176,7 +176,7 @@ On a Claude Pro or Max plan, nothing beyond the plan. They spend a share of your
 
 ## Go further
 
-The eight are free for good. The Agent Ops Masterclass, the premium software library with a resale license, the live sessions and, from October, premium AI Employees live in the [Agent Ops Club](https://club.reinventing.ai/?utm_source=github&utm_medium=readme&utm_campaign=ai-employees). A free club account gets you the session calendar, the walkthrough lesson with the launch replay, the preview lessons and AI Employee updates.
+The eight are free for good. The Agent Ops Masterclass, the premium software library with a resale license, the live sessions and premium AI Employees as they ship live in the [Agent Ops Club](https://club.reinventing.ai/?utm_source=github&utm_medium=readme&utm_campaign=ai-employees). A free club account gets you Masterclass Part 1 and its certificate, the session calendar and AI Employee updates.
 
 ## FAQ
 
