@@ -51,7 +51,7 @@
 
 <p><b>Free live session. Saturday, October 31, 10 AM Eastern, on Zoom.</b></p>
 
-<p>The Monday Blind Spot Report: one page every Monday, worst news first, every number with its source. I walk a sample report line by line and you leave with the free prompt pack that writes it. The replay goes to everyone who registers.</p>
+<p>Set Up and Sell AI Agent Employees in 1 Hour: pick the AI Employee a first client pays for, hire it in a desktop agent app, read its first brief, schedule it, then price it and land the client. The eight employees here are the software. The hour is the business around one. The replay goes to everyone who registers.</p>
 
 <p><a href="https://club.reinventing.ai/events/final-countdown-lifetime-last-call?utm_source=github&utm_medium=readme&utm_campaign=ai-employees&utm_content=oct31-session"><b>Save a free seat</b></a></p>
 
